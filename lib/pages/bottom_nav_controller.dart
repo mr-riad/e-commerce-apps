@@ -1,8 +1,8 @@
 import 'package:e_commerce_apps/const/AppColors.dart';
-import 'package:e_commerce_apps/ui/bottom_nav_pages/cart.dart';
-import 'package:e_commerce_apps/ui/bottom_nav_pages/favourite.dart';
-import 'package:e_commerce_apps/ui/bottom_nav_pages/home.dart';
-import 'package:e_commerce_apps/ui/bottom_nav_pages/profile.dart';
+import 'package:e_commerce_apps/pages/bottom_nav_pages/cart.dart';
+import 'package:e_commerce_apps/pages/bottom_nav_pages/favourite.dart';
+import 'package:e_commerce_apps/pages/bottom_nav_pages/home.dart';
+import 'package:e_commerce_apps/pages/bottom_nav_pages/profile.dart';
 import 'package:flutter/material.dart';
 
 

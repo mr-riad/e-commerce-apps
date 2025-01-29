@@ -1,6 +1,6 @@
 import 'package:e_commerce_apps/const/AppColors.dart';
-import 'package:e_commerce_apps/ui/login_screen.dart';
-import 'package:e_commerce_apps/ui/user_form.dart';
+import 'package:e_commerce_apps/pages/login_screen.dart';
+import 'package:e_commerce_apps/pages/user_form.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';

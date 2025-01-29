@@ -1,6 +1,6 @@
 import 'package:e_commerce_apps/const/AppColors.dart';
-import 'package:e_commerce_apps/ui/bottom_nav_controller.dart';
-import 'package:e_commerce_apps/ui/registration_screen.dart';
+import 'package:e_commerce_apps/pages/bottom_nav_controller.dart';
+import 'package:e_commerce_apps/pages/registration_screen.dart';
 import 'package:e_commerce_apps/widgets/customButton.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';

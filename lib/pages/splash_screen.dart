@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:e_commerce_apps/const/AppColors.dart';
-import 'package:e_commerce_apps/ui/login_screen.dart';
+import 'package:e_commerce_apps/pages/login_screen.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
